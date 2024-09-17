@@ -1,0 +1,28 @@
+.principal {
+    background-color: rgba(0, 200, 255, 0.895);
+}
+
+.lista {
+    display: flex;
+}
+
+.menu {
+    margin-left: 90px;
+    margin-right: 90px;
+}
+
+.noticias {
+    background-color: rgb(73, 201, 255);
+}
+
+.projetos {
+    background-color: bisque;
+}
+
+.qualificacoes {
+    background-color: lawngreen;
+}
+
+.contatos {
+    background-color: lightcoral;
+}
